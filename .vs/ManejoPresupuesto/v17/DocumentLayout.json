@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pepe\\source\\repos\\ManejoPresupuesto\\",
+  "WorkspaceRootPath": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\pepe\\source\\repos\\manejopresupuesto\\manejopresupuesto\\views\\transacciones\\excelreporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\transacciones\\excelreporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\jose.arocena\\source\\repos\\manejopresupuestos\\manejopresupuesto\\views\\transacciones\\calendario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\transacciones\\calendario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\pepe\\source\\repos\\manejopresupuesto\\manejopresupuesto\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\jose.arocena\\source\\repos\\manejopresupuestos\\manejopresupuesto\\models\\eventocalendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\eventocalendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\jose.arocena\\source\\repos\\manejopresupuestos\\manejopresupuesto\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\pepe\\source\\repos\\manejopresupuesto\\manejopresupuesto\\servicios\\repositoriotransacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\servicios\\repositoriotransacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\pepe\\source\\repos\\manejopresupuesto\\manejopresupuesto\\views\\transacciones\\mensual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\transacciones\\mensual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\pepe\\source\\repos\\manejopresupuesto\\manejopresupuesto\\models\\reportemensualviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\reportemensualviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\pepe\\source\\repos\\manejopresupuesto\\manejopresupuesto\\models\\resultadoobtenerpormes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\resultadoobtenerpormes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\jose.arocena\\source\\repos\\manejopresupuestos\\manejopresupuesto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +26,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventoCalendario.cs",
+              "DocumentMoniker": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Models\\EventoCalendario.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\EventoCalendario.cs",
+              "ToolTip": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Models\\EventoCalendario.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Models\\EventoCalendario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:03:37.378Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExcelReporte.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pepe\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\ExcelReporte.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Transacciones\\ExcelReporte.cshtml",
-              "ToolTip": "C:\\Users\\Pepe\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\ExcelReporte.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Transacciones\\ExcelReporte.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAXAAAA",
+              "Title": "Calendario.cshtml",
+              "DocumentMoniker": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Views\\Transacciones\\Calendario.cshtml",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Transacciones\\Calendario.cshtml",
+              "ToolTip": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Views\\Transacciones\\Calendario.cshtml",
+              "RelativeToolTip": "ManejoPresupuesto\\Views\\Transacciones\\Calendario.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T15:24:00.093Z",
+              "WhenOpened": "2024-05-30T07:43:59.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Mensual.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pepe\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\Mensual.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Transacciones\\Mensual.cshtml",
-              "ToolTip": "C:\\Users\\Pepe\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\Mensual.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Transacciones\\Mensual.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAhAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T14:50:24.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReporteMensualViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Pepe\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\ReporteMensualViewModel.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\ReporteMensualViewModel.cs",
-              "ToolTip": "C:\\Users\\Pepe\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\ReporteMensualViewModel.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Models\\ReporteMensualViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:46:36.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TransaccionesController.cs",
-              "DocumentMoniker": "C:\\Users\\Pepe\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
-              "ToolTip": "C:\\Users\\Pepe\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
-              "ViewState": "AQIAAL4AAAAAAAAAAAAwwNYAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:37:35.039Z"
+              "WhenOpened": "2024-05-30T07:42:53.914Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RepositorioTransacciones.cs",
-              "DocumentMoniker": "C:\\Users\\Pepe\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\RepositorioTransacciones.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Servicios\\RepositorioTransacciones.cs",
-              "ToolTip": "C:\\Users\\Pepe\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\RepositorioTransacciones.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Servicios\\RepositorioTransacciones.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAuwEoAAABpAAAA",
+              "Title": "TransaccionesController.cs",
+              "DocumentMoniker": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
+              "ToolTip": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAAwAkBAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:35:16.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResultadoObtenerPorMes.cs",
-              "DocumentMoniker": "C:\\Users\\Pepe\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\ResultadoObtenerPorMes.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\ResultadoObtenerPorMes.cs",
-              "ToolTip": "C:\\Users\\Pepe\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\ResultadoObtenerPorMes.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Models\\ResultadoObtenerPorMes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:34:01.433Z"
+              "WhenOpened": "2024-05-30T07:38:34.577Z",
+              "EditorCaption": ""
             }
           ]
         }
