@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\jose.arocena\\source\\repos\\manejopresupuestos\\manejopresupuesto\\views\\transacciones\\calendario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\transacciones\\calendario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\jose.arocena\\source\\repos\\manejopresupuestos\\manejopresupuesto\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\jose.arocena\\source\\repos\\manejopresupuestos\\manejopresupuesto\\models\\eventocalendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\eventocalendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\jose.arocena\\source\\repos\\manejopresupuestos\\manejopresupuesto\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\jose.arocena\\source\\repos\\manejopresupuestos\\manejopresupuesto\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\jose.arocena\\source\\repos\\manejopresupuestos\\manejopresupuesto\\models\\paginacionrespuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\paginacionrespuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\jose.arocena\\source\\repos\\manejopresupuestos\\manejopresupuesto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\jose.arocena\\source\\repos\\manejopresupuestos\\manejopresupuesto\\servicios\\repositoriocategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\servicios\\repositoriocategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\jose.arocena\\source\\repos\\manejopresupuestos\\manejopresupuesto\\models\\paginacionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C46F563-3CCD-4CBC-9C72-D374E185753E}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\paginacionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,56 +69,69 @@
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EventoCalendario.cs",
-              "DocumentMoniker": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Models\\EventoCalendario.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\EventoCalendario.cs",
-              "ToolTip": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Models\\EventoCalendario.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Models\\EventoCalendario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T08:03:37.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Calendario.cshtml",
-              "DocumentMoniker": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Views\\Transacciones\\Calendario.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Transacciones\\Calendario.cshtml",
-              "ToolTip": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Views\\Transacciones\\Calendario.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Transacciones\\Calendario.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA7AAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T07:43:59.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T07:42:53.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T11:31:14.668Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TransaccionesController.cs",
-              "DocumentMoniker": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
-              "ToolTip": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
-              "ViewState": "AQIAAOwAAAAAAAAAAAAAwAkBAAAPAAAA",
+              "Title": "PaginacionRespuesta.cs",
+              "DocumentMoniker": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Models\\PaginacionRespuesta.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\PaginacionRespuesta.cs",
+              "ToolTip": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Models\\PaginacionRespuesta.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Models\\PaginacionRespuesta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T07:38:34.577Z",
+              "WhenOpened": "2024-06-05T11:26:04.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:15:28.321Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaginacionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Models\\PaginacionViewModel.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\PaginacionViewModel.cs",
+              "ToolTip": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Models\\PaginacionViewModel.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Models\\PaginacionViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:09:21.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositorioCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Servicios\\RepositorioCategorias.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Servicios\\RepositorioCategorias.cs",
+              "ToolTip": "C:\\Users\\jose.arocena\\source\\repos\\ManejoPresupuestos\\ManejoPresupuesto\\Servicios\\RepositorioCategorias.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Servicios\\RepositorioCategorias.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wCkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:08:17.942Z"
             }
           ]
         }
